@@ -1,4 +1,4 @@
-###  Hey bem vindo ao meu perfil👋
+###  Bem vindo ao meu perfil👋
 <!--
 **VicenteLamberti/VicenteLamberti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
