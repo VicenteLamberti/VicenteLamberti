@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Trabalhando com desenvolvimento JAVA SPRING/JSF/JAVA DESKTOP 
-- 🌱 Estudando RabbitMQ, Docker,  DDD, Clean Arch / Arquitetura Hexagonal
+- 🌱 Estudando RabbitMQ, Docker,  DDD, Clean Arch / Arquitetura Hexagonal, Flutter, React
 
 
 
